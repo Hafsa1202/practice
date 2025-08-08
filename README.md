@@ -1,4 +1,3 @@
-Description:
 This repository contains a Power BI report designed to provide insights into sales data, enabling businesses to understand sales trends, customer behavior, and product performance. The report features interactive visualizations, drill-down capabilities, and filters to facilitate in-depth analysis of sales data.
 
 Key Features:
